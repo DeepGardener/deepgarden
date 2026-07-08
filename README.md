@@ -52,3 +52,11 @@ DeepGarden 是面向个人投资者的研究方法论品牌，强调「结构化
 
 ## 免责声明
 本仓库所有内容仅用于研究与学习，**不构成任何投资建议**。据此操作风险自担。
+
+## 子仓库（每个 Skill 独立发布，便于 SkillHub 关联同步）
+
+- [deepgarden-ipo-research](https://github.com/DeepGardener/deepgarden-ipo-research) — DeepGarden 新股研究
+- [deepgarden-earnings-tracking](https://github.com/DeepGardener/deepgarden-earnings-tracking) — DeepGarden 定期财报跟踪
+- [deepgarden-report-deep-read](https://github.com/DeepGardener/deepgarden-report-deep-read) — DeepGarden 公司研报精读
+
+> 本仓为系列合集入口；每个 Skill 的规范源码见上方对应独立仓库，SkillHub 上已发布的 Skill 可绑定各自仓库实现同步更新。
